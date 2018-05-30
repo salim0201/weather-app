@@ -14,5 +14,8 @@
     "weather"
   ],
   "author": "salim shaikh",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.87.0"
+  }
 }
